@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Matheus Banhos](mailto:matheus.banhos@owasp.org)
+* [Filipe Messias](mailto:filipe.messias@owasp.org)
