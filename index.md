@@ -43,7 +43,7 @@ Atualmente, o OWASP João Pessoa é liderado por [Filipe Messias](https://www.li
 
 Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
-  - Top 10 2017 <https://www.owasp.org/index.php/Top_10-2017_Top_10>
+  - Top 10 2021 <https://owasp.org/Top10/>
   - OWASP Mobile Security Project
     <https://www.owasp.org/index.php/OWASP_Mobile_Security_Project>
   - OWASP Internet of Things Project
