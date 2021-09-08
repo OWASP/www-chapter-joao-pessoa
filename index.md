@@ -31,11 +31,45 @@ João Pessoa é capital do estado da Paraíba, É conhecida como "Porta do Sol",
 <li>A participação nas listas de discussão e a participação nas sessões da OWASP João Pessoa são gratuitas.</li>
 </ul>
 <br>
-### Upcoming Meeting information:
+<br>
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Equipe OWASP João Pessoa
+
+Atualmente, o OWASP João Pessoa é liderado por [Filipe Messias](https://www.linkedin.com/in/fmessias/) e [Matheus Banhos](https://www.linkedin.com/in/matheusbanhos/).
+
+<br>
+
+## Sobre o Projeto OWASP
+
+Segue uma lista de 10 (alguns de muitos) projetos da comunidade
+
+  - Top 10 2017 <https://www.owasp.org/index.php/Top_10-2017_Top_10>
+  - OWASP Mobile Security Project
+    <https://www.owasp.org/index.php/OWASP_Mobile_Security_Project>
+  - OWASP Internet of Things Project
+    <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
+  - OWASP DevSecOps Studio Project
+    <https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project>
+  - OWASP Cloud Security Project
+    <https://www.owasp.org/index.php/OWASP_Cloud_Security_Project>
+  - OWASP Enterprise Security API
+    <https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API>
+  - OWASP Broken Web Applications Project
+    <https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project>
+  - Testing Guide Introduction
+    <https://www.owasp.org/index.php/Testing_Guide_Introduction>
+  - OWASP Secure Software Development Lifecycle Project
+    <https://www.owasp.org/index.php/OWASP_Secure_Software_Development_Lifecycle_Project>
+  - OWASP Risk Rating Management
+    <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
+
+<br>
+
+Próximos Eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Em breve iremos anunciar nosso primeiro evento! Fique ligado!
+
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 <!-- You should delete this comment
 
