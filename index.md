@@ -101,4 +101,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Próximos Eventos
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.meetup-group %}  -->
