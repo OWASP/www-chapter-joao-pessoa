@@ -20,6 +20,8 @@ Seja bem-vindo a página da OWASP Chapter João Pessoa!
 A OWASP João Pessoa é um dos 12 capítulos brasileiros entre os mais de 270 Capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que as pessoas e organizações possam tomar decisões conscientes sobre os verdadeiros riscos de segurança das aplicações.<br>
 Serão realizados encontros para que as pessoas possam compartilhar conhecimentos, discutir e aprender sobre segurança de software. A organização também tem muitos projetos ativos nos quais os voluntários podem participar para criar códigos e documentos para a comunidade mundial de segurança.<br>
 <br>
+João Pessoa é capital do estado da Paraíba, É conhecida como "Porta do Sol", devido ao fato de, no município, estar localizada a Ponta do Seixas, que é o ponto mais oriental das Américas, o que faz a cidade ser conhecida como o lugar "onde o sol nasce primeiro no continente americano". Durante a Conferência das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento, João Pessoa recebeu o título de "segunda capital mais verde do mundo", ficando atrás apenas de Paris, na França. É ainda a cidade mais verde do Brasil.<br>
+<br>
 
 ## Por que fazer parte da OWASP João Pessoa?
 <ul>
