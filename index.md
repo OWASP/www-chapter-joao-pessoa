@@ -41,27 +41,21 @@ Atualmente, o OWASP João Pessoa é liderado por [Filipe Messias](https://www.li
 
 ## Sobre o Projeto OWASP
 
-Segue uma lista de 10 (alguns de muitos) projetos da comunidade
+Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
   - Top 10 2021 <https://owasp.org/Top10/>
   - OWASP Mobile Security Project
-    <https://www.owasp.org/index.php/OWASP_Mobile_Security_Project>
+    <https://owasp.org/www-project-mobile-security/>
   - OWASP Internet of Things Project
-    <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
-  - OWASP DevSecOps Studio Project
-    <https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project>
+    <https://owasp.org/www-project-internet-of-things/>
   - OWASP Cloud Security Project
-    <https://www.owasp.org/index.php/OWASP_Cloud_Security_Project>
-  - OWASP Enterprise Security API
-    <https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API>
+    <https://owasp.org/www-project-cloud-security/>
+  - OWASP API Security Project
+    <https://owasp.org/www-project-api-security/>
   - OWASP Broken Web Applications Project
-    <https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project>
-  - Testing Guide Introduction
-    <https://www.owasp.org/index.php/Testing_Guide_Introduction>
-  - OWASP Secure Software Development Lifecycle Project
-    <https://www.owasp.org/index.php/OWASP_Secure_Software_Development_Lifecycle_Project>
-  - OWASP Risk Rating Management
-    <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
+    <https://owasp.org/www-project-broken-web-applications/>
+  - Conheça os outros projetos
+    <https://owasp.org/projects/>
 
 <br>
 
