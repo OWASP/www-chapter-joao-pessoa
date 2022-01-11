@@ -12,6 +12,6 @@ tags: chapter-jp
 
 O OWASP é feito pela comunidade, sinta-se convidado a participar conosco das mais diversas iniciativas de segurança.
 
-### Participe do OWASP-BH
+### Participe do OWASP-JP
 
 O capítulo João Pessoa está sempre aberto para receber palestrantes, envie material para liderança por meio do correio eletrônico <joao-pessoa-leaders@owasp.org>. Não é necessário que seu trabalho esteja concluído, a liderança o apoiará se necessário na elaboração do material.
