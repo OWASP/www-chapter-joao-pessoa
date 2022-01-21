@@ -26,21 +26,12 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 {% include chapter_events.html group=page.meetup-group %}
 
-O capítulo OWASP João Pessoa convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem da nossa reabertura oficial do capítulo.
-
-Neste primeiro encontro iremos abordar temas relevantes voltados para a segurança de aplicações segundo as diretrizes da OWASP com apresentação dos valores e principais projetos da Fundação.
-
-Programação:
-
-20h00: Apresentação e Reabertura do João Pessoa
-20h30: Convidado (EM BREVE ATUALIZAÇÃO).
-
-
-Data: Sexta-Feira, 25 de fevereiro de 2022
-
-Horário: à partir das 20h
-
-Evento online
-
-Link do evento: <https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/>
+<p>O cap&iacute;tulo OWASP Jo&atilde;o Pessoa convida profissionais de seguran&ccedil;a da informa&ccedil;&atilde;o, desenvolvedores de software, estudantes das &aacute;reas de tecnologia da informa&ccedil;&atilde;o e demais interessados no assunto, para participarem da nossa reabertura oficial.</p>
+<p>Neste primeiro encontro iremos abordar temas relevantes voltados para a seguran&ccedil;a de aplica&ccedil;&otilde;es segundo as diretrizes da OWASP.</p>
+<p>&nbsp;</p>
+<p><strong>Data: Sexta-Feira, 25 de fevereiro de 2022</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 20h</strong></p>
+<p>&nbsp;</p>
+<p>Evento online</p>
+<p>Link do evento: &lt;https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/&gt;</p>
 
