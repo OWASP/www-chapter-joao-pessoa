@@ -33,5 +33,5 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p><strong>Hor&aacute;rio: &agrave; partir das 20h</strong></p>
 <p>&nbsp;</p>
 <p>Evento online</p>
-<p>Link do evento: &lt;https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/&gt;</p>
+<p>Link do evento: <a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/</a></p>
 
