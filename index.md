@@ -82,4 +82,4 @@ Horário: à partir das 20h
 
 Evento online
 
-Link do evento: https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/
+Link do evento: <https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/283389379/>
