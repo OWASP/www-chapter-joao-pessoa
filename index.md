@@ -35,7 +35,7 @@ João Pessoa é capital do estado da Paraíba, É conhecida como "Porta do Sol",
 
 ## Equipe OWASP João Pessoa
 
-Atualmente, o OWASP João Pessoa é liderado por [Filipe Messias](https://www.linkedin.com/in/fmessias/), [Matheus Banhos](https://www.linkedin.com/in/matheusbanhos/), [Jessé Neto](https://www.linkedin.com/in/jessenetojpti/) e [Pedro Filho](https://www.linkedin.com/in/pedro-batista-de-carvalho-filho/)
+Atualmente, o OWASP João Pessoa é liderado por [Filipe Messias](https://www.linkedin.com/in/fmessias/), [Matheus Banhos](https://www.linkedin.com/in/matheusbanhos/), [Jessé Neto](https://www.linkedin.com/in/jessenetojpti/) e [Pedro Filho](https://www.linkedin.com/in/pedro-batista-de-carvalho-filho-92b95768/).
 
 <br>
 
