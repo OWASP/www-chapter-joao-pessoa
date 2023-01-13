@@ -72,7 +72,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 <p><strong>Programa&ccedil;&atilde;o:</strong></p>
 <p>20h00: Modelagem de Ameaças (<a href="https://www.linkedin.com/in/rafaellachi/">Rafael Lachi</a>)</p>
 <p>&nbsp;</p>
-<p><strong>Data: Quarta-feira, 25 de janeiro de 2023</strong></p>
+<p><strong>Data: Quarta-feira, 26 de janeiro de 2023</strong></p>
 <p><strong>Hor&aacute;rio: &agrave; partir das 19h até as 20h</strong></p>
 <p>&nbsp;</p>
 <p><strong>Evento online:</strong></p>
