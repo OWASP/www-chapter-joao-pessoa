@@ -38,7 +38,6 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p>As inscrições para participação presencial em Recife estão esgotadas, mas ainda há vagas para participação remota, que também são gratuitas.</p>
 <p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/292258843/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/292258843/</a></p>
 <p>&nbsp;</p>
-
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">1&ordm; Meetup - OWASP JP 2023 - Modelagem de Ameaças</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>O cap&iacute;tulo OWASP Jo&atilde;o Pessoa convida profissionais de seguran&ccedil;a da informa&ccedil;&atilde;o, desenvolvedores de software, estudantes das &aacute;reas de tecnologia da informa&ccedil;&atilde;o e demais interessados no assunto, para participarem do nosso primeiro evento de 2023.</p>
