@@ -25,7 +25,7 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
 <div id="ch_events_div">&nbsp;</div>
-<p>Nós da OWASP Jampa estamos gratos e felizes em comunicar que a Tempest estendeu a participação no evento OWASP | Tempest Tech Sessions aos nossos membros. A participação é gratuita e o evento é voltado para a comunidade de Cibersegurança.</p>
+<p>Nós do OWASP Jampa estamos gratos e felizes em comunicar que a Tempest estendeu a participação no evento OWASP | Tempest Tech Sessions aos nossos membros. A participação é gratuita e o evento é voltado para a comunidade de Cibersegurança.</p>
 <p>O evento contará com a presença da Analista de Segurança Wanessa Souza do time de Threat Intelligence da Tempest apresentando a palestra Do Cobalt Strike ao Sliver: um panorama sobre as principais ferramentas de pós-exploração usadas por cibercriminosos.</p>
 <p>&nbsp;</p>
 <p><strong>Programa&ccedil;&atilde;o:</strong></p>
