@@ -36,7 +36,7 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p>&nbsp;</p>
 <p><strong>Evento online:</strong></p>
 <p>As inscrições para participação presencial em Recife estão esgotadas, mas ainda há vagas para participação remota, que também são gratuitas.</p>
-<p>Link para inscrições:&nbsp;<a href="https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/">https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/</a></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/292258843/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/292258843/</a></p>
 <p>&nbsp;</p>
 
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">1&ordm; Meetup - OWASP JP 2023 - Modelagem de Ameaças</h2>
