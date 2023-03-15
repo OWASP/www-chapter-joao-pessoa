@@ -23,6 +23,22 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>Nós da OWASP Jampa estamos gratos e felizes em comunicar que a Tempest estendeu a participação no evento OWASP | Tempest Tech Sessions aos nossos membros. A participação é gratuita e o evento é voltado para a comunidade de Cibersegurança.</p>
+<p>O evento contará com a presença da Analista de Segurança Wanessa Souza do time de Threat Intelligence da Tempest apresentando a palestra Do Cobalt Strike ao Sliver: um panorama sobre as principais ferramentas de pós-exploração usadas por cibercriminosos.</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>19h00: Do Cobalt Strike ao Sliver: um panorama sobre as principais ferramentas de pós-exploração usadas por cibercriminosos. (<a href="https://www.linkedin.com/in/wanessa-pssouza/">Wanessa Souza</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Data: Quinta-feira, 15 de março de 2023</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 19h até as 20:30.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento online:</strong></p>
+<p>As inscrições para participação presencial em Recife estão esgotadas, mas ainda há vagas para participação remota, que também são gratuitas.</p>
+<p>Link para inscrições:&nbsp;<a href="https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/">https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/</a></p>
+<p>&nbsp;</p>
+
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">1&ordm; Meetup - OWASP JP 2023 - Modelagem de Ameaças</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>O cap&iacute;tulo OWASP Jo&atilde;o Pessoa convida profissionais de seguran&ccedil;a da informa&ccedil;&atilde;o, desenvolvedores de software, estudantes das &aacute;reas de tecnologia da informa&ccedil;&atilde;o e demais interessados no assunto, para participarem do nosso primeiro evento de 2023.</p>
