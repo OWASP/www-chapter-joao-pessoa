@@ -23,6 +23,24 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+
+
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Reconnaissance like a cyber scout</h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>Já sabemos que para ter um bom resultado em uma operação, é necessário ter uma excelente enumeração, mas, por que isto? Nesta talk será exibido o fundamento de um reconhecimento de perímetro, os resultados que podem ser obtidos e como alcançá-los. Cobriremos no final uma das mais famosas ferramentas para esta finalidade, conhecida como ReconFTW na qual o palestrante é contribuidor.</p>
+<p><strong>Descrição:</strong></p>
+<p>Por que e de que maneira é levantado informações do perímetro de uma empresa durante uma operação? Como diria o provérbio chinês: "Para cortar uma árvore bem rápido, gaste o dobro do tempo afiando o machado". Trazendo para nossa interpretação: "Consiga o máximo de informações e melhor será o seu resultado da invasão". Esta palestra irá abordar o fundamento de uma enumeração de perímetro, seguindo para a exibição da notória ferramenta ReconFTW que automatiza todo o processo e será concluído detalhando a contribuição do palestrante para o projeto, que é open-source e  foi idealizado pelo "Six2dez".
+</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>19h00: Reconnaissance like a cyber scout (<a href="https://www.linkedin.com/in/lucasscarmo/">Lucas "luriel" Carmo</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Data: Segunda-feira, 10 de abril de 2023</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 19h até as 20:30.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/292411394/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/292411394/</a></p>
+<p>&nbsp;</p>
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>Nós do OWASP Jampa estamos gratos e felizes em comunicar que a Tempest estendeu a participação no evento OWASP | Tempest Tech Sessions aos nossos membros. A participação é gratuita e o evento é voltado para a comunidade de Cibersegurança.</p>
