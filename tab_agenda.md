@@ -32,7 +32,7 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 O Java Encoder é uma ferramenta chave contra ataques XSS. Ele converte os dados para um formato seguro, bloqueando códigos maliciosos, auxiando na proteção do site em questão.</p>
 <p>&nbsp;</p>
 <p><strong>Programa&ccedil;&atilde;o:</strong></p>
-<p>19h00: Os ataques XSS e sua mitigação com o OWASP Java Encoder</p>
+<p>19h00: Os ataques XSS e sua mitigação com o OWASP Java Encoder (<a href="https://www.linkedin.com/in/marcos-tulio-gomes-830aa269/">Marcos Tulio</a>)</p>
 <p>&nbsp;</p>
 <p><strong>Data: Segunda-feira, 18 de setembro de 2023</strong></p>
 <p><strong>Hor&aacute;rio: &agrave; partir das 19h até as 20:30.</strong></p>
