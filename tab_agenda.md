@@ -24,7 +24,22 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 {% include chapter_events.html group=page.meetup-group %}
 
 
-
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Os ataques XSS e sua mitigação com o OWASP Java Encoder</h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>Os ataques XSS representam uma ameaça significativa, permitindo que invasores injetem código malicioso em sites, comprometendo a experiência do usuário e expondo informações sensíveis.</p>
+<p><strong>Descrição:</strong></p>
+<p>Os ataques XSS (Cross-Site Scripting) são brechas comuns em sites, onde o explorador insere código malicioso para atacar usuários. Isso pode levar ao roubo de informações ou controle da sessão. Existem tipos como armazenados, refletidos e DOM-based. Prevenir requer validação rigorosa e práticas seguras de codificação, como CSP. A conscientização é fundamental.
+O Java Encoder é uma ferramenta chave contra ataques XSS. Ele converte os dados para um formato seguro, bloqueando códigos maliciosos, auxiando na proteção do site em questão.</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>19h00: Os ataques XSS e sua mitigação com o OWASP Java Encoder</p>
+<p>&nbsp;</p>
+<p><strong>Data: Segunda-feira, 18 de setembro de 2023</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 19h até as 20:30.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/295631047/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/295631047/</a></p>
+<p>&nbsp;</p>
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Reconnaissance like a cyber scout</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>Já sabemos que para ter um bom resultado em uma operação, é necessário ter uma excelente enumeração, mas, por que isto? Nesta talk será exibido o fundamento de um reconhecimento de perímetro, os resultados que podem ser obtidos e como alcançá-los. Cobriremos no final uma das mais famosas ferramentas para esta finalidade, conhecida como ReconFTW na qual o palestrante é contribuidor.</p>
