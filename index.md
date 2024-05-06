@@ -65,7 +65,6 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 <hr>
 
 ## Realizados
----------------------
 <hr>
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
 <div id="ch_events_div">&nbsp;</div>
