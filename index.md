@@ -62,6 +62,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 ## Próximos Eventos
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+<hr>
 
 ## Realizados
 ---------------------
