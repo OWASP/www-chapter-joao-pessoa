@@ -60,6 +60,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 <br>
 <hr>
 ## Próximos Eventos
+---------------------
 {% include chapter_events.html group=page.meetup-group %}
 <hr>
 
@@ -95,3 +96,4 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 <p><strong>Evento online:</strong></p>
 <p>Link do evento:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/290874767/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/290874767/</a></p>
 <p>&nbsp;</p>
+<hr>
