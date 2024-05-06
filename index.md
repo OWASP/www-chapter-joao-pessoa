@@ -58,7 +58,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
     <https://owasp.org/projects/>
 
 <br>
-
+<hr>
 ## Próximos Eventos
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
@@ -66,6 +66,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
 ## Realizados
 ---------------------
+<hr>
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>Nós do OWASP Jampa estamos gratos e felizes em comunicar que a Tempest estendeu a participação no evento OWASP | Tempest Tech Sessions aos nossos membros. A participação é gratuita e o evento é voltado para a comunidade de Cibersegurança.</p>
