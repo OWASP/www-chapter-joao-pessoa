@@ -21,8 +21,6 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 ## Próximos Eventos
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
-
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2024 - OWASP | Aprendendo sobre segurança em APIs com o projeto crAPI da OWASP.</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>O crAPI (Completely Ridiculous Application Programmer Interface) é um projeto da OWASP (Open Web Application Security Project) que simula uma aplicação web baseada em microserviços, impulsionada por APIs. Ele foi criado com a intenção de ser vulnerável de propósito, permitindo que os desenvolvedores e profissionais de segurança explorem e compreendam os dez riscos de segurança mais críticos relacionados a APIs.</p>
@@ -37,6 +35,9 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p><strong>Evento Presencial:</strong></p>
 <p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/300849458">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/300849458</a></p>
 <p>&nbsp;</p>
+
+## Eventos Realizados
+---------------------
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Os ataques XSS e sua mitigação com o OWASP Java Encoder</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>Os ataques XSS representam uma ameaça significativa, permitindo que invasores injetem código malicioso em sites, comprometendo a experiência do usuário e expondo informações sensíveis.</p>
