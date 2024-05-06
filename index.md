@@ -64,7 +64,7 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
 {% include chapter_events.html group=page.meetup-group %}
 <hr>
-
+<!--
 ## Realizados
 <hr>
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2023 - OWASP | Tempest Tech Sessions</h2>
@@ -97,3 +97,4 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 <p>Link do evento:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/290874767/">https://www.meetup.com/owasp-joao-pessoa-chapter/events/290874767/</a></p>
 <p>&nbsp;</p>
 <hr>
+-->
