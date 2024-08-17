@@ -33,7 +33,7 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p><strong>Local: <a href="https://maps.app.goo.gl/sj11zsi18ar43B999">Faculdade Estácio de Sá, Mag Shopping, 3º piso.</a></strong></p>
 <p>&nbsp;</p>
 <p><strong>Evento Presencial:</strong></p>
-<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/302891134">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/302891134</a></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/302891134">https://www.meetup.com/owasp-joao-pessoa-chapter/events/302891134</a></p>
 <p>&nbsp;</p>
 
 
