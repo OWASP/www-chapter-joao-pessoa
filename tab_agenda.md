@@ -21,6 +21,22 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 ## Próximos Eventos
 ---------------------
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | A Arquitetura e a Engenharia da Modelagem de Ameaças segundo a OWASP </h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>A Arquitetura e a Engenharia de Softwares possuem grande participação no desenvolvimento dos projetos e é de suma importância que o Arquiteto e o Engenheiro de Sofwares saibam definir e Modelar as Ameaças para o seu projeto na visão de um AppSec através dos Controles Proativos da OWASP. Venha entender melhor como funciona este processo.</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>19h00: A Arquitetura e a Engenharia da Modelagem de Ameaças segundo a OWASP (<a href="https://www.linkedin.com/in/marcos-tulio-gomes-830aa269/">Marcos Tulio</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Data: Quarta-feira, 28 de agosto de 2024</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 19h00.</strong></p>
+<p><strong>Local: <a href="https://maps.app.goo.gl/sj11zsi18ar43B999">Faculdade Estácio de Sá, Mag Shopping, 3º piso.</a></strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento Presencial:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/302891134">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/302891134</a></p>
+<p>&nbsp;</p>
+
+
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2024 - OWASP | Aprendendo sobre segurança em APIs com o projeto crAPI da OWASP.</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>O crAPI (Completely Ridiculous Application Programmer Interface) é um projeto da OWASP (Open Web Application Security Project) que simula uma aplicação web baseada em microserviços, impulsionada por APIs. Ele foi criado com a intenção de ser vulnerável de propósito, permitindo que os desenvolvedores e profissionais de segurança explorem e compreendam os dez riscos de segurança mais críticos relacionados a APIs.</p>
