@@ -36,6 +36,23 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/302891134">https://www.meetup.com/owasp-joao-pessoa-chapter/events/302891134</a></p>
 <p>&nbsp;</p>
 
+
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | OWASP A05:2021-Security Misconfiguration em upload de arquivos </h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>Em nosso Meetup, você terá acesso a um laboratório para explorar juntamente conosco as vulnerabilidades de Unrestricted File Upload que figura entre os TOP 10 OWASP, especificamente no tópico A5:2021 - Security Misconfiguration. Juntos conceituaremos, demonstraremos, exploraremos e discutiremos as melhores práticas para mitigar esta vulnerabilidade. Te encontro online: sábado, 24 de agosto de 2024 às 09h30. Até lá!</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>09h30: OWASP A05:2021-Security Misconfiguration em upload de arquivos (<a href="https://www.linkedin.com/in/paulogualter/">Paulo Gualter</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Data: S&aacute;bado, 24 de agosto de 2024</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 09h30.</strong></p>
+<p><strong>Local: Online</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento Online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/302970973">https://www.meetup.com/owasp-joao-pessoa-chapter/events/302970973</a></p>
+<p>&nbsp;</p>
+
+
 ## Eventos Realizados
 ---------------------
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2024 - OWASP | Aprendendo sobre segurança em APIs com o projeto crAPI da OWASP.</h2>
