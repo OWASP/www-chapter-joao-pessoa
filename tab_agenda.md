@@ -10,7 +10,7 @@ tags: chapter-jp
 
 ## Agenda de Eventos
 
-O OWASP-JP divulga sua agenda de eventos oficiais por meio do Meetup!
+A OWASP - Joao Pessoa divulga sua agenda de eventos oficiais por meio do Meetup!
 
 Fique ligado na agenda de eventos OWASP registrando-se na página do capítulo: <https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/>
 
@@ -21,6 +21,21 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 ## Próximos Eventos
 ---------------------
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | Os 10 principais riscos de segurança de CI/CD da OWASP </h2>
+<div id="ch_events_div">&nbsp;</div>
+<p>O Pipeline é o coração pulsante de muitas organizações modernas. Hoje estas novas tecnologias, permitem uma entrega de software mais rápida, flexível e diversa. No entanto, elas também remodelaram a superfície de ataque com uma infinidade de novas avenidas e oportunidades para os invasores e o professor Cleyber Silva, abordará os 10 riscos de segurança a se observar, quando implementamos estes processos.</p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p>10h00: Os 10 principais riscos de segurança de CI/CD da OWASP (<a href="https://www.linkedin.com/in/cleybersilva/">Cleyber Silva</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Data: Sábado, 07 de setembro de 2024</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 10h00.</strong></p>
+<p><strong>Local: online</p>
+<p>&nbsp;</p>
+<p><strong>Evento Online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/303150504/?slug=owasp-joao-pessoa-chapter&eventId=303150504">https://www.meetup.com/owasp-joao-pessoa-chapter/events/303150504/?slug=owasp-joao-pessoa-chapter&eventId=303150504</a></p>
+<p>&nbsp;</p>
+
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | A Arquitetura e a Engenharia da Modelagem de Ameaças segundo a OWASP </h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>A Arquitetura e a Engenharia de Softwares possuem grande participação no desenvolvimento dos projetos e é de suma importância que o Arquiteto e o Engenheiro de Sofwares saibam definir e Modelar as Ameaças para o seu projeto na visão de um AppSec através dos Controles Proativos da OWASP. Venha entender melhor como funciona este processo.</p>
