@@ -61,7 +61,7 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 <p>&nbsp;</p>
 <p><strong>Data: S&aacute;bado, 24 de agosto de 2024</strong></p>
 <p><strong>Hor&aacute;rio: &agrave; partir das 09h30.</strong></p>
-<p><strong>Local: Online</strong></p>
+<p><strong>Local: YouTube</strong></p>
 <p>&nbsp;</p>
 <p><strong>Evento Online:</strong></p>
 <p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/302970973">https://www.meetup.com/owasp-joao-pessoa-chapter/events/302970973</a></p>
