@@ -21,6 +21,24 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 ## Próximos Eventos
 ---------------------
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | Modelagem de Ameaça para além de sistemas: o fator humano</h2>
+<div id="ch_events_div">&nbsp;</div>
+<p><strong>Jonadabe Costa irá falar sobre a importância de considerar o comportamento humano como uma variável crítica na segurança da informação.
+Além de focar nas vulnerabilidades técnicas dos sistemas, a apresentação destacará como as ações, decisões e interações humanas podem amplificar ou mitigar riscos.
+Discutiremos os aspectos como engenharia social, falhas de comunicação, erros humanos e como a modelagem de ameaça deve englobar esses fatores para garantir uma abordagem de segurança mais abrangente e eficaz.
+Este tema se conecta diretamente alguns dos TOP 10 da OWASP, especificamente o A04:2021 - Insecure Design, que aborda o Design Inseguro, que leva em consideração tanto a interface de uso quanto as interações humanas, A07:2021 - Identification and Authentication Failures, já que muitos dos problemas de autenticação derivam de senhas fracas, reutilização de credenciais ou práticas inadequadas de segurança por parte dos usuários, tudo relacionado a comportamentos humanos falhos e o A09:2021 - Security Logging and Monitoring Failures, uma vez que a falta de monitoramento adequado ou a má interpretação de logs frequentemente decorre de erros humanos.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p><strong>20h00: Modelagem de Ameaça para além de sistemas: o fator humano (<a href="https://www.linkedin.com/in/jonadabecosta">Jonadabe Costa</a>)</strong></p>
+<p>&nbsp;</p>
+<p><strong>Data: Quinta-feira, 10 de outubro de 2024</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 20h00.</strong></p>
+<p><strong>Local: online</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento Online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/303716058">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/303716058</a></p>
+<p>&nbsp;</p>
+
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | Os 10 principais riscos de segurança de CI/CD da OWASP </h2>
 <div id="ch_events_div">&nbsp;</div>
 <p>O Pipeline é o coração pulsante de muitas organizações modernas. Hoje estas novas tecnologias, permitem uma entrega de software mais rápida, flexível e diversa. No entanto, elas também remodelaram a superfície de ataque com uma infinidade de novas avenidas e oportunidades para os invasores e o professor Cleyber Silva, abordará os 10 riscos de segurança a se observar, quando implementamos estes processos.</p>
