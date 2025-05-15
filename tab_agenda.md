@@ -21,6 +21,22 @@ O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas qu
 
 ## Próximos Eventos
 ---------------------
+<h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2025 | NÃO FAÇA ESSO COM O SHELL!</h2>
+<div id="ch_events_div">&nbsp;</div>
+<p><strong>É comum vermos administradores de sistemas, especialmente aqueles com forte dependência do mouse, recorrerem à internet em busca de soluções para tarefas que não conseguem realizar com cliques. O problema é que, muitas vezes, eles acabam copiando comandos ou scripts que não compreendem, colocando em risco toda a instalação do sistema. Pense comigo: de que adianta investir pesado em segurança da informação se o próprio profissional — que frequentemente tem acesso root — executa códigos colhidos aleatoriamente da internet, sem saber se são corretos, seguros ou mesmo legítimos? Além de representar um enorme risco à segurança, essa prática pode gerar scripts lentos, ineficientes e altamente suscetíveis a falhas. A proposta desta palestra é justamente abordar os vícios mais comuns na programação em Shell Script, demonstrando como evitá-los. Vamos comparar soluções amplamente divulgadas na internet com abordagens mais limpas, eficientes e seguras. Em cada exemplo, será possível observar diferenças reais de desempenho e clareza. Se você assistir, perceberá que muito do conteúdo encontrado online pode — e deve — ser otimizado ou corrigido. A palestra não promete transformar você em um "admin raiz", mas com certeza irá abrir seus olhos para práticas que devem ser abandonadas e outras que merecem ser incentivadas. A ideia central é mostrar que o Shell, quando bem utilizado, é como um combustível aditivado: pode entregar muito mais do que você imagina.
+</strong></p>
+<p>&nbsp;</p>
+<p><strong>Programa&ccedil;&atilde;o:</strong></p>
+<p><strong>20h30: NÃO FAÇA ESSO COM O SHELL! (<a href="https://www.linkedin.com/in/juliocezarneves">Júlio Neves</a>)</strong></p>
+<p>&nbsp;</p>
+<p><strong>Data: Terça-feira, 20 de maio de 2025</strong></p>
+<p><strong>Hor&aacute;rio: &agrave; partir das 20h30.</strong></p>
+<p><strong>Local: online</strong></p>
+<p>&nbsp;</p>
+<p><strong>Evento Online:</strong></p>
+<p>Link para inscrições:&nbsp;<a href="https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/307838826">https://www.meetup.com/pt-BR/owasp-joao-pessoa-chapter/events/307838826</a></p>
+<p>&nbsp;</p>
+
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2024 | Modelagem de Ameaça para além de sistemas: o fator humano</h2>
 <div id="ch_events_div">&nbsp;</div>
 <p><strong>Jonadabe Costa irá falar sobre a importância de considerar o comportamento humano como uma variável crítica na segurança da informação.
