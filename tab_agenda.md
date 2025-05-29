@@ -19,7 +19,7 @@ Fique ligado na agenda de eventos OWASP registrando-se na página do capítulo: 
 O capítulo João Pessoa busca constantemente espaços acadêmicos e empresas que queiram receber eventos, faça contato com a liderança caso tenha disponibilidade para mais informações.
 
 
-## Próximos Eventos
+## Eventos
 ---------------------
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP João Pessoa 2025 | NÃO FAÇA ESSO COM O SHELL!</h2>
 <div id="ch_events_div">&nbsp;</div>
