@@ -1,0 +1,31 @@
+leaders:
+  - name: Jessé Neto
+    email: jesse.neto@owasp.org
+  - name: Pedro Filho
+    email: pedro.filho@owasp.org
+  - name: Anderson Philip
+    email: anderson.philip@owasp.org
+    github: aphilipti
+  - name: Marcos Tulio
+    email: marcos.tulio@owasp.org
+    github: mtgsjr
+  - name: Jansen Holanda
+    email: jansenholanda@gmail.com
+location:
+  country: Brazil
+  country_code: BR
+  region: Paraíba
+  city: Joao Pessoa
+  latitude: -7.1215981
+  longitude: -34.882028
+meetup_group: OWASP-Joao-Pessoa-Chapter
+name: OWASP Joao Pessoa
+repositories:
+  - name: www-chapter-joao-pessoa
+    url: https://github.com/OWASP/www-chapter-joao-pessoa
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-jp
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-joao-pessoa
