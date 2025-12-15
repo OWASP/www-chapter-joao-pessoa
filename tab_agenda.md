@@ -106,7 +106,7 @@ Este tema se conecta diretamente alguns dos TOP 10 da OWASP, especificamente o A
 ---------------------
 <h2 id="1&ordm;-meetup---owasp-jp-2023---save-the-date">OWASP JP 2024 - OWASP | Aprendendo sobre segurança em APIs com o projeto crAPI da OWASP.</h2>
 <div id="ch_events_div">&nbsp;</div>
-<p>O crAPI (Completely Ridiculous Application Programmer Interface) é um projeto da OWASP (Open Web Application Security Project) que simula uma aplicação web baseada em microserviços, impulsionada por APIs. Ele foi criado com a intenção de ser vulnerável de propósito, permitindo que os desenvolvedores e profissionais de segurança explorem e compreendam os dez riscos de segurança mais críticos relacionados a APIs.</p>
+<p>O crAPI (Completely Ridiculous Application Programmer Interface) é um projeto da OWASP (Open Worldwide Application Security Project) que simula uma aplicação web baseada em microserviços, impulsionada por APIs. Ele foi criado com a intenção de ser vulnerável de propósito, permitindo que os desenvolvedores e profissionais de segurança explorem e compreendam os dez riscos de segurança mais críticos relacionados a APIs.</p>
 <p>&nbsp;</p>
 <p><strong>Programa&ccedil;&atilde;o:</strong></p>
 <p>19h00: Aprendendo sobre segurança em APIs com o projeto crAPI da OWASP (<a href="https://www.linkedin.com/in/marcos-tulio-gomes-830aa269/">Marcos Tulio</a>)</p>
